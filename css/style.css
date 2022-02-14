@@ -1,0 +1,28 @@
+#img-div {
+  display: flex;
+  flex-direction: column;
+  margin: auto;
+  width: 600px;
+  height: 500px;
+  transition: width 2s, height 4s;
+}
+
+#image {
+  max-width: 100%;
+  height: auto;
+}
+
+#title {
+  text-align: center;
+}
+
+#parrafo,
+#img-caption {
+  text-align: center;
+  color: white;
+}
+
+h4 {
+  text-align: center;
+  color: grey;
+}

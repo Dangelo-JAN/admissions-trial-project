@@ -1,2 +1,28 @@
-# admissions-trial-project
-Repository for my own review of the admissions trial
+# Admissions trials project
+
+> Repository for to review one of my past projects.
+
+
+## Built With
+
+- HTML
+- CSS
+
+## Getting Started
+
+## Authors
+
+👤 **Author1**
+
+- GitHub: [@Dangelo-JAN](https://github.com/Dangelo-JAN)
+- LinkedIn: [Soluciones Empresriales Dangelo Arrivillaga](https://www.linkedin.com/in/soluciones-empresariales-dangelo-arrivillaga-2a144718a/)
+
+## Acknowledgments
+
+- Hat tip to anyone whose code was used
+- Inspiration
+- etc
+
+## 📝 License
+
+This project is [MIT](./MIT.md) licensed.
